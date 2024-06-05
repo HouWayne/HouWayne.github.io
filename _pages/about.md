@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 
-Hi, I'm a current HKU Ph.D. student at [Dr. Chenshu Wu's](https://cswu.me) [AIoT Lab](https://aiot.hku.hk). My Ph.D. journey started in 2021Fall and now focus on Wi-Fi based Sensing and AI-driven wireless sensing.
+Hi, I'm a current HKU Ph.D. student at [Dr. Chenshu Wu's](https://cswu.me) [AIoT Lab](https://aiot.hku.hk). My Ph.D. journey started in 2021 Fall and now focus on Wi-Fi Sensing.
 
 # Education
 
@@ -19,15 +19,16 @@ Current Ph.D. student in HKU Computer Science Department, under supervision of D
 **Sept. 2017 - June 2021**<br>
 B.E. in Computer Science, Beijing University of Posts and Telecommunications (BUPT).
 
-# Teaching
-
+# Teaching Experience
 **Operating System (COMP3230A) Prof. Chenshu Wu**<br>
-Teaching assistant of undergraduate Operating System class (HKU COMP3230A) in 2021 Fall and 2022 Fall, responsible for tutorials & labs(f2f presentations) and after-class Q&A.
+Teaching assistant of undergraduate Operating System class (HKU COMP3230A) in 2021 - 2023 Fall, responsible for tutorials (f2f presentations) and after-class Q&A.
 
 
 # Publications
-
+* [Ubicomp/IMWUT'24] **Weiying Hou** and Chenshu Wu. (2024). [RFBoost: Understanding and Boosting Deep WiFi Sensing via Physical Data Augmentation](https://doi.org/10.1145/3659620).
 * [NSDI'23] Yi Zhang, **Weiying Hou**, Yang Zheng, Chenshu Wu. (2023). [VeCare: Statistical Acoustic Sensing for Automotive InCabin Monitoring](https://www.usenix.org/conference/nsdi23/presentation/zhang-yi).
+
+
 
 <!-- This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
 
@@ -40,11 +41,11 @@ Many of the features of dynamic content management systems (like Wordpress) can 
 Getting started
 ======
 1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
-1. Fork [this repository](https://github.com/academicpages/academicpages.github.io) by clicking the "fork" button in the top right. 
-1. Go to the repository's settings (rightmost item in the tabs that start with "Code", should be below "Unwatch"). Rename the repository "[your GitHub username].github.io", which will also be your website's URL.
-1. Set site-wide configuration and create content & metadata (see below -- also see [this set of diffs](http://archive.is/3TPas) showing what files were changed to set up [an example site](https://getorg-testacct.github.io) for a user with the username "getorg-testacct")
-1. Upload any files (like PDFs, .zip files, etc.) to the files/ directory. They will appear at https://[your GitHub username].github.io/files/example.pdf.  
-1. Check status by going to the repository settings, in the "GitHub pages" section
+2. Fork [this repository](https://github.com/academicpages/academicpages.github.io) by clicking the "fork" button in the top right. 
+3. Go to the repository's settings (rightmost item in the tabs that start with "Code", should be below "Unwatch"). Rename the repository "[your GitHub username].github.io", which will also be your website's URL.
+4. Set site-wide configuration and create content & metadata (see below -- also see [this set of diffs](http://archive.is/3TPas) showing what files were changed to set up [an example site](https://getorg-testacct.github.io) for a user with the username "getorg-testacct")
+5. Upload any files (like PDFs, .zip files, etc.) to the files/ directory. They will appear at https://[your GitHub username].github.io/files/example.pdf.  
+6. Check status by going to the repository settings, in the "GitHub pages" section
 
 Site-wide configuration
 ------
