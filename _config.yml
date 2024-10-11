@@ -85,11 +85,11 @@ analytics:
 author:
   name             : "HOU, Weiying"
   avatar           : "weiying-hou.jpeg"
-  bio              : "Received B.E. in CS from BUPT. Current HKU Ph.D. student and AIoT Lab member, interested in Wireless Sensing"
+  bio              : "Received B.E. in Computer Science at BUPT, current HKU Ph.D. candidate and AIoT Lab member, interested in Wireless Sensing"
   location         : "Hong Kong"
   employer         :
   pubmed           : 
-  googlescholar    : 
+  googlescholar    : https://scholar.google.com/citations?user=4YsWXaoAAAAJ
   email            : wyhou@cs.hku.hk
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
@@ -105,8 +105,8 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :
-  orcid            : #"http://orcid.org/yourorcidurl"
+  linkedin         : weiying-hou-9220931a5
+  orcid            : https://orcid.org/0009-0006-1264-4649
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
@@ -161,7 +161,7 @@ markdown: kramdown
 highlighter: rouge
 lsi: false
 excerpt_separator: "\n\n"
-incremental: false
+incremental: true
 
 
 # Markdown Processing
