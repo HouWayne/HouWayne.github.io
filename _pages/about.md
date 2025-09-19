@@ -18,6 +18,7 @@ Current Ph.D. student in HKU Computer Science Department, under supervision of D
 B.E. in Computer Science at Beijing University of Posts and Telecommunications (BUPT).
 
 # Publications
+* [NeurIPS 2025] Dongsheng Yuan, Xie Zhang, **Weiying Hou**, Sheng Lyu, Luca Jiang-Tao Yu, Yuemin Yu, Chengxiao Li, Chenshu Wu. OctoNet: A Large-Scale Multi-Modal Dataset for Human Activity Understanding Grounded in Motion-Captured 3D Pose Labels.
 * [Ubicomp/IMWUT'24] **Weiying Hou** and Chenshu Wu. (2024). RFBoost: Understanding and Boosting Deep WiFi Sensing via Physical Data Augmentation. 
 <p>
   <a href="https://doi.org/10.1145/3659620">
