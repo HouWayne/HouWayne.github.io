@@ -1,1 +1,1 @@
-bundle && bundle exec jekyll serve --trace --open-url --livereload
+rm -rf _site .jekyll-cache && eval "$(rbenv init -)" && bundle install && bundle exec jekyll serve --config _config.yml,_config.dev.yml

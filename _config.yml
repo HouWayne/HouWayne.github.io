@@ -76,7 +76,7 @@ social:
 
 # Analytics
 analytics:
-  provider               :  #"google-universal" # false (default), "google", "google-universal", "custom"
+  provider               :  "custom" # false (default), "google", "google-universal", "custom"
   google:
     tracking_id          :
 
@@ -85,12 +85,12 @@ analytics:
 author:
   name             : "HOU, Weiying"
   avatar           : "weiying-hou.jpeg"
-  bio              : "Received B.E. in Computer Science at BUPT, current HKU Ph.D. candidate and AIoT Lab member, interested in Wireless Sensing"
-  location         : "Hong Kong"
+  bio              : "HKU Ph.D. candidate, HKU AIoT Lab member."
+  location         : "Hong Kong SAR"
   employer         :
   pubmed           : 
   googlescholar    : https://scholar.google.com/citations?user=4YsWXaoAAAAJ
-  email            : wyhou@cs.hku.hk
+  email            : weiying.hou@connect.hku.hk
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -149,6 +149,7 @@ exclude:
   - package.json
   - tmp
   - vendor
+  - vendor/bundle
 keep_files:
   - .git
   - .svn

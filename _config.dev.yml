@@ -1,6 +1,10 @@
 # Develop override settings
 
-url: http://localhost:4000
+url: http://localhost:54321
+baseurl: ""
+host: localhost
+
+github: [metadata]
 
 analytics:
   provider: false
