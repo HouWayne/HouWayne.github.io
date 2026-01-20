@@ -5,3 +5,9 @@ _includes/.DS_Store
 .DS_Store
 *.lock
 Gemfile.lock
+
+# Development environment
+.bundle/
+.ruby-version
+.jekyll-metadata
+.jekyll-cache/
