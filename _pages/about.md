@@ -111,7 +111,7 @@ My research interests center on **Wireless Sensing** and **AIoT**, with a specif
 
 # Awards & Honors
 * *2026-01*, **Best Student Presentation** at the Second Low-Altitude Summit held in Hong Kong.
-* *2024-10*, **UbiComp/IMWUT 2024 Student Travel Grant**.
+* *2024-10*, **Gary Marsden Travel Awards (UbiComp/ISWC 2024, Melbourne, Australia)**.
 * *2021-09*, **HKU Postgraduate Scholarship**.
 * *2021-06*, **BUPT Outstanding Graduates**.
 
