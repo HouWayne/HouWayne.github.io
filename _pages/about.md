@@ -44,7 +44,7 @@ My research interests center on **Wireless Sensing** and **AIoT**, with a specif
     <img src="/images/pub-wisar.png" alt="Wi2SAR">
   </div>
   <div class="pub-content">
-    <span class="pub-venue accepted">Mobicom 2026</span>
+    <span class="pub-venue">Mobicom 2026</span>
     <h3 class="pub-title">
       <a href="https://github.com/aiot-lab/Wi2SAR" target="_blank">"Take Me Home, Wi-Fi Drone": A Drone-based Wireless System for Wilderness Search and Rescue</a>
     </h3>
@@ -52,6 +52,7 @@ My research interests center on **Wireless Sensing** and **AIoT**, with a specif
     <div class="pub-links">
       <a href="https://github.com/aiot-lab/Wi2SAR" class="pub-link code" target="_blank"><i class="fab fa-github"></i> Code</a>
       <a href="https://aiot-lab.github.io/Wi2SAR/" class="pub-link website" target="_blank"><i class="fas fa-globe"></i> Website</a>
+      <a href="https://youtu.be/9GgJBF5f4yM" class="pub-link video" target="_blank"><i class="fab fa-youtube"></i> Video</a>
     </div>
   </div>
 </div>
