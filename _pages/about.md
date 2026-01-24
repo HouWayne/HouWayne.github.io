@@ -41,7 +41,7 @@ My research interests center on **Wireless Sensing** and **AIoT**, with a specif
 
 <div class="pub-card">
   <div class="pub-thumb">
-    <img src="/images/pub-wisar.png" alt="Wi2SAR">
+    <img src="/images/pub-wisar.jpg" alt="Wi2SAR">
   </div>
   <div class="pub-content">
     <span class="pub-venue">Mobicom 2026</span>
@@ -53,6 +53,7 @@ My research interests center on **Wireless Sensing** and **AIoT**, with a specif
       <a href="https://github.com/aiot-lab/Wi2SAR" class="pub-link code" target="_blank"><i class="fab fa-github"></i> Code</a>
       <a href="https://aiot-lab.github.io/Wi2SAR/" class="pub-link website" target="_blank"><i class="fas fa-globe"></i> Website</a>
       <a href="https://youtu.be/9GgJBF5f4yM" class="pub-link video" target="_blank"><i class="fab fa-youtube"></i> Video</a>
+      <a href="https://connecthkuhk-my.sharepoint.com/:p:/g/personal/u3008874_connect_hku_hk/IQBZFlqF35z4Q7tI-h2FeDjZAYgehw_jRdWTjW1ztHfUdak?e=dTztev" class="pub-link slides" target="_blank"><i class="fas fa-file-powerpoint"></i> Slides</a>
     </div>
   </div>
 </div>
@@ -71,7 +72,7 @@ My research interests center on **Wireless Sensing** and **AIoT**, with a specif
       <a href="https://openreview.net/pdf?id=z3TftXOizf" class="pub-link paper" target="_blank"><i class="fas fa-file-pdf"></i> Paper</a>
       <a href="https://github.com/aiot-lab/OctoNet" class="pub-link code" target="_blank"><i class="fab fa-github"></i> Code</a>
       <a href="https://aiot-lab.github.io/OctoNet/" class="pub-link website" target="_blank"><i class="fas fa-globe"></i> Website</a>
-      <a href="https://neurips.cc/media/neurips-2025/Slides/121376.pdf" class="pub-link slides" target="_blank"><i class="fas fa-presentation"></i> Slides</a>
+      <a href="https://neurips.cc/media/neurips-2025/Slides/121376.pdf" class="pub-link slides" target="_blank"><i class="fa-file-powerpoint"></i> Slides</a>
     </div>
   </div>
 </div>
