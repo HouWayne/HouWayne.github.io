@@ -49,6 +49,7 @@ My research interests center on **Wireless Sensing** and **AIoT**, with a specif
       <a href="https://github.com/aiot-lab/Wi2SAR" target="_blank">"Take Me Home, Wi-Fi Drone": A Drone-based Wireless System for Wilderness Search and Rescue</a>
     </h3>
     <p class="pub-authors"><strong>Weiying Hou</strong>, Luca Jiang-Tao Yu, Chenshu Wu</p>
+    <span class="pub-venue" style="background: #fff3cd; color: #7a4b00;"><i class="fas fa-trophy" aria-hidden="true"></i> Best Artifact Award</span>
     <div class="pub-links">
       <a href="https://github.com/aiot-lab/Wi2SAR" class="pub-link code" target="_blank"><i class="fab fa-github"></i> Code</a>
       <a href="https://aiot-lab.github.io/Wi2SAR/" class="pub-link website" target="_blank"><i class="fas fa-globe"></i> Website</a>
@@ -112,6 +113,7 @@ My research interests center on **Wireless Sensing** and **AIoT**, with a specif
 </div>
 
 # Awards & Honors
+* *2026-10*, **ACM MobiCom 2026 Best Artifact Award**, for “Take Me Home, Wi-Fi Drone.”
 * *2026-01*, **Best Student Presentation** at the Second Low-Altitude Summit held in Hong Kong.
 * *2024-10*, **Gary Marsden Travel Awards (UbiComp/ISWC 2024, Melbourne, Australia)**.
 * *2021-09*, **HKU Postgraduate Scholarship**.
