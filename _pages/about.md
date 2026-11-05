@@ -39,6 +39,28 @@ My research interests center on **Wireless Sensing** and **AIoT**, with a specif
 # Publications 
 [[Google Scholar]](https://scholar.google.com/citations?user=4YsWXaoAAAAJ){:target="_blank"}
 
+## Preprints
+
+<div class="pub-card" id="pub-octosense">
+  <div class="pub-thumb">
+    <img src="/images/pub-octosense.png" alt="OctoSense platform overview">
+  </div>
+  <div class="pub-content">
+    <span class="pub-venue">arXiv’26</span>
+    <span class="pub-venue accepted">Conditionally Accepted by SenSys’27</span>
+    <h3 class="pub-title">
+      <a href="https://arxiv.org/abs/2610.12405" target="_blank" rel="noopener">OctoSense: Building a Unified Ecosystem for Open-Source Wireless Sensing</a>
+    </h3>
+    <p class="pub-authors"><strong>Weiying Hou</strong>, Xie Zhang, Chenshu Wu</p>
+    <div class="pub-links">
+      <a href="https://arxiv.org/pdf/2610.12405" class="pub-link paper" target="_blank" rel="noopener"><i class="fas fa-file-pdf" aria-hidden="true"></i> PDF</a>
+      <a href="https://github.com/aiot-lab/OctoSense" class="pub-link code" target="_blank" rel="noopener"><i class="fab fa-github" aria-hidden="true"></i> Code</a>
+    </div>
+  </div>
+</div>
+
+## Conference Publications
+
 <div class="pub-card">
   <div class="pub-thumb">
     <img src="/images/pub-wisar.jpg" alt="Wi2SAR">
