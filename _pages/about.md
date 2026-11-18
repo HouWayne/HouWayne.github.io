@@ -1,16 +1,18 @@
 ---
 permalink: /
 title: "Weiying Hou"
-excerpt: "Weiying Hou"
+excerpt: "Wireless sensing researcher and HKU Computer Science Ph.D. working on Wi-Fi systems, open-source frameworks, and embedded sensing prototypes."
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-Hi, I'm a current Ph.D. candidate at [AIoT Lab](https://aiot.hku.hk){:target="_blank"}, The University of Hong Kong (HKU), supervised by [Prof. Chenshu Wu](https://cswu.me){:target="_blank"}. I began my Ph.D. journey in Fall 2021, after receiving my B.E. degree in Computer Science from Beijing University of Posts and Telecommunications (BUPT).
+I am a **wireless sensing researcher** with a Ph.D. in Computer Science from The University of Hong Kong (November 2026). I worked with [Prof. Chenshu Wu](https://cswu.me){:target="_blank"} in the [AIoT Lab](https://aiot.hku.hk){:target="_blank"}, after receiving my B.E. in Computer Science from Beijing University of Posts and Telecommunications.
 
-My research interests center on **Wireless Sensing** and **AIoT**, with a specific focus on making Wi-Fi sensing more ubiquitous and robust. I am currently working on boosting the sensing capabilities of Wi-Fi via deep learning, metamaterials, and multi-modal fusion to enable transformative applications in **smart IoT sensing**, **AI for Health**, and **Low-Altitude Economy** (e.g., drone-based sensing). My goal is to bridge the gap between theoretical wireless signals and practical, life-enhancing applications.
+My research combines deep learning, RF and acoustic signal processing, metamaterials, and multimodal fusion. I develop learning methods, open-source frameworks, and embedded prototypes for contactless health monitoring and drone-based sensing. My first-author work **Wi²SAR** received the **ACM MobiCom 2026 Best Artifact Award**. I also co-developed **RFBoost** for physical data augmentation and **OctoSense** for reusable wireless sensing pipelines.
+
+[Download CV (PDF)](/files/Weiying_Hou_CV.pdf){: .btn .btn--primary target="_blank"} [GitHub](https://github.com/HouWayne){: .btn target="_blank"} [LinkedIn](https://www.linkedin.com/in/weiying-hou-9220931a5/){: .btn target="_blank"}
 
 # Education
 <div class="edu-card">
@@ -18,10 +20,10 @@ My research interests center on **Wireless Sensing** and **AIoT**, with a specif
     <img src="/images/HKU-shield-logo.png" alt="HKU Shield Logo">
   </div>
   <div class="edu-content">
-    <h3 class="edu-title">Ph.D. Candidate in Computer Science</h3>
+    <h3 class="edu-title">Ph.D. in Computer Science</h3>
     <div class="edu-subtitle">The University of Hong Kong</div>
-    <div class="edu-time">Sept. 2021 - Present</div>
-    <p class="edu-desc">Department of Computer Science, Supervised by Prof. Chenshu Wu</p>
+    <div class="edu-time">Sept. 2021 - Nov. 2026</div>
+    <p class="edu-desc">Advisor: Prof. Chenshu Wu</p>
   </div>
 </div>
 
@@ -55,6 +57,22 @@ My research interests center on **Wireless Sensing** and **AIoT**, with a specif
     <div class="pub-links">
       <a href="https://arxiv.org/pdf/2610.12405" class="pub-link paper" target="_blank" rel="noopener"><i class="fas fa-file-pdf" aria-hidden="true"></i> PDF</a>
       <a href="https://github.com/aiot-lab/OctoSense" class="pub-link code" target="_blank" rel="noopener"><i class="fab fa-github" aria-hidden="true"></i> Code</a>
+      <a href="https://aiot-lab.github.io/OctoSense/" class="pub-link website" target="_blank" rel="noopener"><i class="fas fa-globe" aria-hidden="true"></i> Project</a>
+      <a href="https://octosense-doc.wyhou.me/en/index.html" class="pub-link website" target="_blank" rel="noopener"><i class="fas fa-book" aria-hidden="true"></i> Docs</a>
+      <a href="https://aiot-lab.github.io/MuMoSe/" class="pub-link slides" target="_blank" rel="noopener"><i class="fas fa-chalkboard-teacher" aria-hidden="true"></i> Tutorial</a>
+    </div>
+  </div>
+</div>
+
+<div class="pub-card" id="pub-neuro-wideband">
+  <div class="pub-content">
+    <span class="pub-venue">arXiv 2026</span>
+    <h3 class="pub-title">
+      <a href="https://arxiv.org/abs/2601.06467" target="_blank" rel="noopener">Neuro-Wideband WiFi Sensing via Self-Conditioned CSI Extrapolation</a>
+    </h3>
+    <p class="pub-authors">Sijie Ji, <strong>Weiying Hou</strong>, Chenshu Wu</p>
+    <div class="pub-links">
+      <a href="https://arxiv.org/abs/2601.06467" class="pub-link paper" target="_blank" rel="noopener"><i class="fas fa-file-pdf" aria-hidden="true"></i> Paper</a>
     </div>
   </div>
 </div>
@@ -66,15 +84,17 @@ My research interests center on **Wireless Sensing** and **AIoT**, with a specif
     <img src="/images/pub-wisar.jpg" alt="Wi2SAR">
   </div>
   <div class="pub-content">
-    <span class="pub-venue">Mobicom 2026</span>
+    <span class="pub-venue">MobiCom 2026</span>
     <h3 class="pub-title">
-      <a href="https://github.com/aiot-lab/Wi2SAR" target="_blank">"Take Me Home, Wi-Fi Drone": A Drone-based Wireless System for Wilderness Search and Rescue</a>
+      <a href="https://doi.org/10.1145/3795866.3796679" target="_blank" rel="noopener">"Take Me Home, Wi-Fi Drone": A Drone-based Wireless System for Wilderness Search and Rescue</a>
     </h3>
     <p class="pub-authors"><strong>Weiying Hou</strong>, Luca Jiang-Tao Yu, Chenshu Wu</p>
     <span class="pub-venue" style="background: #fff3cd; color: #7a4b00;"><i class="fas fa-trophy" aria-hidden="true"></i> Best Artifact Award</span>
     <div class="pub-links">
+      <a href="https://doi.org/10.1145/3795866.3796679" class="pub-link paper" target="_blank" rel="noopener"><i class="fas fa-file-pdf" aria-hidden="true"></i> Paper</a>
       <a href="https://github.com/aiot-lab/Wi2SAR" class="pub-link code" target="_blank"><i class="fab fa-github"></i> Code</a>
       <a href="https://aiot-lab.github.io/Wi2SAR/" class="pub-link website" target="_blank"><i class="fas fa-globe"></i> Website</a>
+      <a href="https://luneburg-studio.wyhou.me/" class="pub-link website" target="_blank" rel="noopener"><i class="fas fa-cubes" aria-hidden="true"></i> Luneburg Studio</a>
       <a href="https://youtu.be/9GgJBF5f4yM" class="pub-link video" target="_blank"><i class="fab fa-youtube"></i> Video</a>
       <a href="https://connecthkuhk-my.sharepoint.com/:p:/g/personal/u3008874_connect_hku_hk/IQBZFlqF35z4Q7tI-h2FeDjZAYgehw_jRdWTjW1ztHfUdak?e=dTztev" class="pub-link slides" target="_blank"><i class="fas fa-file-powerpoint"></i> Slides</a>
     </div>
@@ -105,7 +125,7 @@ My research interests center on **Wireless Sensing** and **AIoT**, with a specif
     <img src="/images/pub-rfboost.png" alt="RFBoost">
   </div>
   <div class="pub-content">
-    <span class="pub-venue">Ubicomp/IMWUT 2024</span>
+    <span class="pub-venue">UbiComp / IMWUT 2024</span>
     <h3 class="pub-title">
       <a href="https://dl.acm.org/doi/10.1145/3659620" target="_blank">RFBoost: Understanding and Boosting Deep WiFi Sensing via Physical Data Augmentation</a>
     </h3>
@@ -124,9 +144,9 @@ My research interests center on **Wireless Sensing** and **AIoT**, with a specif
   <div class="pub-content">
     <span class="pub-venue">NSDI 2023</span>
     <h3 class="pub-title">
-      <a href="https://www.usenix.org/conference/nsdi23/presentation/zhang-yi" target="_blank">VeCare: Statistical Acoustic Sensing for Automotive InCabin Monitoring</a>
+      <a href="https://www.usenix.org/conference/nsdi23/presentation/zhang-yi" target="_blank">VeCare: Statistical Acoustic Sensing for Automotive In-Cabin Monitoring</a>
     </h3>
-    <p class="pub-authors">Yi Zhang, <strong>Weiying Hou</strong>, Yang Zheng, Chenshu Wu</p>
+    <p class="pub-authors">Yi Zhang, <strong>Weiying Hou</strong>, Zheng Yang, Chenshu Wu</p>
     <div class="pub-links">
       <a href="https://www.usenix.org/conference/nsdi23/presentation/zhang-yi" class="pub-link paper" target="_blank"><i class="fas fa-file-pdf"></i> Paper</a>
       <a href="https://youtu.be/jkd5PWkxdgE" class="pub-link video" target="_blank"><i class="fab fa-youtube"></i> Video</a>
@@ -141,9 +161,15 @@ My research interests center on **Wireless Sensing** and **AIoT**, with a specif
 * *2021-09*, **HKU Postgraduate Scholarship**.
 * *2021-06*, **BUPT Outstanding Graduates**.
 
+# Talks & Tutorials
+
+**UbiComp / ISWC 2026 Tutorial Co-organizer & Speaker** · October 11, 2026 · Shanghai, China
+
+[Towards Open-Sourced Datasets, Benchmarks, and Platforms for Multi-Modal Sensing](https://aiot-lab.github.io/MuMoSe/){:target="_blank"}. I presented OctoSense and its approach to shared datasets, signal operators, and reproducible benchmarks. [Slides and tutorial materials](https://aiot-lab.github.io/MuMoSe/#materials){:target="_blank"}.
+
 # Community Services
 * **Reviewer**: TMC, IMWUT 2025.
-* **Artifact Reviewer**: Mobicom 2023, OSDI/ATC 2023.
+* **Artifact Reviewer**: MobiCom 2023, OSDI/ATC 2023.
 
 # Teaching Experience
 * **Year 2021-2024. Operating System (COMP3230A). Professor: Prof. Chenshu Wu**<br>
