@@ -10,7 +10,7 @@ redirect_from:
 
 I am a **wireless sensing researcher** with a Ph.D. in Computer Science from The University of Hong Kong (November 2026). I worked with [Prof. Chenshu Wu](https://cswu.me){:target="_blank"} in the [AIoT Lab](https://aiot.hku.hk){:target="_blank"}, after receiving my B.E. in Computer Science from Beijing University of Posts and Telecommunications.
 
-My research combines deep learning, RF and acoustic signal processing, metamaterials, and multimodal fusion. I develop learning methods, open-source frameworks, and embedded prototypes for contactless health monitoring and drone-based sensing. My first-author work **Wi²SAR** received the **ACM MobiCom 2026 Best Artifact Award**. I also co-developed **RFBoost** for physical data augmentation and **OctoSense** for reusable wireless sensing pipelines.
+My research interests center on **Wireless Sensing** and **AIoT**, with a specific focus on making Wi-Fi sensing more ubiquitous and robust. I am currently working on boosting the sensing capabilities of Wi-Fi via deep learning, metamaterials, and multi-modal fusion to enable transformative applications in **smart IoT sensing**, **AI for Health**, and **Low-Altitude Economy** (e.g., drone-based sensing). My goal is to bridge the gap between theoretical wireless signals and practical, life-enhancing applications.
 
 [Download CV (PDF)](/files/Weiying_Hou_CV.pdf){: .btn .btn--primary target="_blank"} [GitHub](https://github.com/HouWayne){: .btn target="_blank"} [LinkedIn](https://www.linkedin.com/in/weiying-hou-9220931a5/){: .btn target="_blank"}
 
@@ -58,21 +58,7 @@ My research combines deep learning, RF and acoustic signal processing, metamater
       <a href="https://arxiv.org/pdf/2610.12405" class="pub-link paper" target="_blank" rel="noopener"><i class="fas fa-file-pdf" aria-hidden="true"></i> PDF</a>
       <a href="https://github.com/aiot-lab/OctoSense" class="pub-link code" target="_blank" rel="noopener"><i class="fab fa-github" aria-hidden="true"></i> Code</a>
       <a href="https://aiot-lab.github.io/OctoSense/" class="pub-link website" target="_blank" rel="noopener"><i class="fas fa-globe" aria-hidden="true"></i> Project</a>
-      <a href="https://octosense-doc.wyhou.me/en/index.html" class="pub-link website" target="_blank" rel="noopener"><i class="fas fa-book" aria-hidden="true"></i> Docs</a>
       <a href="https://aiot-lab.github.io/MuMoSe/" class="pub-link slides" target="_blank" rel="noopener"><i class="fas fa-chalkboard-teacher" aria-hidden="true"></i> Tutorial</a>
-    </div>
-  </div>
-</div>
-
-<div class="pub-card" id="pub-neuro-wideband">
-  <div class="pub-content">
-    <span class="pub-venue">arXiv 2026</span>
-    <h3 class="pub-title">
-      <a href="https://arxiv.org/abs/2601.06467" target="_blank" rel="noopener">Neuro-Wideband WiFi Sensing via Self-Conditioned CSI Extrapolation</a>
-    </h3>
-    <p class="pub-authors">Sijie Ji, <strong>Weiying Hou</strong>, Chenshu Wu</p>
-    <div class="pub-links">
-      <a href="https://arxiv.org/abs/2601.06467" class="pub-link paper" target="_blank" rel="noopener"><i class="fas fa-file-pdf" aria-hidden="true"></i> Paper</a>
     </div>
   </div>
 </div>
@@ -163,12 +149,26 @@ My research combines deep learning, RF and acoustic signal processing, metamater
 
 # Talks & Tutorials
 
-**UbiComp / ISWC 2026 Tutorial Co-organizer & Speaker** · October 11, 2026 · Shanghai, China
-
-[Towards Open-Sourced Datasets, Benchmarks, and Platforms for Multi-Modal Sensing](https://aiot-lab.github.io/MuMoSe/){:target="_blank"}. I presented OctoSense and its approach to shared datasets, signal operators, and reproducible benchmarks. [Slides and tutorial materials](https://aiot-lab.github.io/MuMoSe/#materials){:target="_blank"}.
+<div class="pub-card" id="talk-ubicomp-2026">
+  <div class="pub-thumb">
+    <img src="/images/tutorial-ubicomp-2026.jpg" alt="Participants at the UbiComp / ISWC 2026 multi-modal sensing tutorial">
+  </div>
+  <div class="pub-content">
+    <span class="pub-venue">UbiComp / ISWC 2026</span>
+    <h3 class="pub-title">
+      <a href="https://aiot-lab.github.io/MuMoSe/" target="_blank" rel="noopener">Towards Open-Sourced Datasets, Benchmarks, and Platforms for Multi-Modal Sensing</a>
+    </h3>
+    <p class="pub-authors"><strong>Co-organizer &amp; Speaker</strong> · October 11, 2026 · Shanghai, China</p>
+    <p class="pub-authors">I presented OctoSense and its approach to shared datasets, signal operators, and reproducible benchmarks.</p>
+    <div class="pub-links">
+      <a href="https://aiot-lab.github.io/MuMoSe/" class="pub-link website" target="_blank" rel="noopener"><i class="fas fa-globe" aria-hidden="true"></i> Tutorial</a>
+      <a href="https://aiot-lab.github.io/MuMoSe/#materials" class="pub-link slides" target="_blank" rel="noopener"><i class="fas fa-file-powerpoint" aria-hidden="true"></i> Slides &amp; Materials</a>
+    </div>
+  </div>
+</div>
 
 # Community Services
-* **Reviewer**: TMC, IMWUT 2025.
+* **Reviewer**: TMC, TIoT, IMWUT / UbiComp.
 * **Artifact Reviewer**: MobiCom 2023, OSDI/ATC 2023.
 
 # Teaching Experience
